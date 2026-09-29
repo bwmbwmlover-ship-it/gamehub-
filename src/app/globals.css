@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gh-bg: #0f0f12;
+  --color-gh-surface: #1a1a22;
+  --color-gh-surface2: #25252f;
+  --color-gh-border: #2e2e3a;
+  --color-gh-text: #e8e8ed;
+  --color-gh-muted: #8b8b9e;
+  --color-gh-violet: #7c3aed;
+  --color-gh-violet-light: #a78bfa;
+  --color-gh-violet-dark: #5b21b6;
+  --color-gh-green: #22c55e;
+  --color-gh-red: #ef4444;
+  --color-gh-yellow: #eab308;
+  --font-family-sans: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-gh-border) transparent;
+}
+
+body {
+  background-color: var(--color-gh-bg);
+  color: var(--color-gh-text);
+  font-family: var(--font-family-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: var(--color-gh-violet);
+  color: white;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-slide-up {
+  animation: slideUp 0.4s ease-out;
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

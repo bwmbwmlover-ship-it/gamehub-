@@ -1,0 +1,1390 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "slug": "gaming-laptops",
+      "nameUz": "Gaming noutbuklar",
+      "image": "https://images.pexels.com/photos/3951449/pexels-photo-3951449.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "sortOrder": 1
+    },
+    {
+      "id": 2,
+      "slug": "gaming-pcs",
+      "nameUz": "Gaming kompyuterlar",
+      "image": "https://images.pexels.com/photos/7858767/pexels-photo-7858767.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "sortOrder": 2
+    },
+    {
+      "id": 3,
+      "slug": "gaming-mice",
+      "nameUz": "Gaming sichqonchalar",
+      "image": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "sortOrder": 3
+    },
+    {
+      "id": 4,
+      "slug": "mechanical-keyboards",
+      "nameUz": "Mexanik klaviaturalar",
+      "image": "https://images.pexels.com/photos/5380584/pexels-photo-5380584.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "sortOrder": 4
+    },
+    {
+      "id": 5,
+      "slug": "mouse-pads",
+      "nameUz": "Sichqoncha padlar",
+      "image": "https://images.pexels.com/photos/27679707/pexels-photo-27679707.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "sortOrder": 5
+    },
+    {
+      "id": 6,
+      "slug": "gaming-chairs",
+      "nameUz": "Gaming stullar",
+      "image": "https://images.pexels.com/photos/7915533/pexels-photo-7915533.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "sortOrder": 6
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "slug": "asus",
+      "name": "ASUS ROG"
+    },
+    {
+      "id": 2,
+      "slug": "msi",
+      "name": "MSI"
+    },
+    {
+      "id": 3,
+      "slug": "lenovo",
+      "name": "Lenovo Legion"
+    },
+    {
+      "id": 4,
+      "slug": "razer",
+      "name": "Razer"
+    },
+    {
+      "id": 5,
+      "slug": "logitech",
+      "name": "Logitech G"
+    },
+    {
+      "id": 6,
+      "slug": "corsair",
+      "name": "Corsair"
+    },
+    {
+      "id": 7,
+      "slug": "hyperx",
+      "name": "HyperX"
+    },
+    {
+      "id": 8,
+      "slug": "steelseries",
+      "name": "SteelSeries"
+    },
+    {
+      "id": 9,
+      "slug": "secretlab",
+      "name": "Secretlab"
+    },
+    {
+      "id": 10,
+      "slug": "noblechairs",
+      "name": "Noblechairs"
+    },
+    {
+      "id": 11,
+      "slug": "acer",
+      "name": "Acer Predator"
+    },
+    {
+      "id": 12,
+      "slug": "hp",
+      "name": "HP Omen"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "slug": "asus-rog-strix-g16",
+      "name": "ASUS ROG Strix G16",
+      "description": "Intel Core i9-13980HX, RTX 4070, 16\" QHD 240Hz, 32GB DDR5, 1TB SSD",
+      "price": 28000000,
+      "categoryId": 1,
+      "brandId": 1,
+      "stock": 8,
+      "isNew": true,
+      "isFeatured": true,
+      "specs": {
+        "Protsessor": "Intel Core i9-13980HX",
+        "Videokarta": "NVIDIA RTX 4070",
+        "Ekran": "16\" QHD 240Hz",
+        "RAM": "32GB DDR5",
+        "SSD": "1TB NVMe"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "msi-ge78-hx",
+      "name": "MSI Raider GE78 HX",
+      "description": "Intel Core i9-13980HX, RTX 4080, 17\" QHD+ 240Hz, 32GB DDR5, 1TB SSD",
+      "price": 35000000,
+      "categoryId": 1,
+      "brandId": 2,
+      "stock": 5,
+      "isFeatured": true,
+      "specs": {
+        "Protsessor": "Intel Core i9-13980HX",
+        "Videokarta": "NVIDIA RTX 4080",
+        "Ekran": "17\" QHD+ 240Hz",
+        "RAM": "32GB DDR5",
+        "SSD": "1TB NVMe"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "lenovo-legion-pro-7",
+      "name": "Lenovo Legion Pro 7i",
+      "description": "Intel Core i9-13900HX, RTX 4070, 16\" WQXGA 240Hz, 32GB DDR5, 1TB SSD",
+      "price": 25500000,
+      "categoryId": 1,
+      "brandId": 3,
+      "stock": 12,
+      "isNew": true,
+      "specs": {
+        "Protsessor": "Intel Core i9-13900HX",
+        "Videokarta": "NVIDIA RTX 4070",
+        "Ekran": "16\" WQXGA 240Hz",
+        "RAM": "32GB DDR5",
+        "SSD": "1TB NVMe"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "asus-rog-zephyrus-g14",
+      "name": "ASUS ROG Zephyrus G14",
+      "description": "AMD Ryzen 9 7940HS, RTX 4060, 14\" QHD+ 165Hz, 16GB DDR5, 512GB SSD",
+      "price": 18000000,
+      "categoryId": 1,
+      "brandId": 1,
+      "stock": 15,
+      "isFeatured": true,
+      "specs": {
+        "Protsessor": "AMD Ryzen 9 7940HS",
+        "Videokarta": "NVIDIA RTX 4060",
+        "Ekran": "14\" QHD+ 165Hz",
+        "RAM": "16GB DDR5",
+        "SSD": "512GB NVMe"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "acer-predator-helios-18",
+      "name": "Acer Predator Helios 18",
+      "description": "Intel Core i9-13900HX, RTX 4080, 18\" 4K 120Hz, 32GB DDR5, 2TB SSD",
+      "price": 38000000,
+      "categoryId": 1,
+      "brandId": 11,
+      "stock": 3,
+      "specs": {
+        "Protsessor": "Intel Core i9-13900HX",
+        "Videokarta": "NVIDIA RTX 4080",
+        "Ekran": "18\" 4K 120Hz",
+        "RAM": "32GB DDR5",
+        "SSD": "2TB NVMe"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "hp-omen-16",
+      "name": "HP Omen 16",
+      "description": "Intel Core i7-13700HX, RTX 4060, 16\" QHD 165Hz, 16GB DDR5, 512GB SSD",
+      "price": 16500000,
+      "discountPrice": 14500000,
+      "categoryId": 1,
+      "brandId": 12,
+      "stock": 20,
+      "isNew": true,
+      "specs": {
+        "Protsessor": "Intel Core i7-13700HX",
+        "Videokarta": "NVIDIA RTX 4060",
+        "Ekran": "16\" QHD 165Hz",
+        "RAM": "16GB DDR5",
+        "SSD": "512GB NVMe"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "rog-strix-g35ce",
+      "name": "ASUS ROG Strix G35CE",
+      "description": "Intel Core i9-13900KF, RTX 4090, 32GB DDR5, 2TB SSD. Ultimate gaming stansiya.",
+      "price": 45000000,
+      "categoryId": 2,
+      "brandId": 1,
+      "stock": 4,
+      "isFeatured": true,
+      "specs": {
+        "Protsessor": "Intel Core i9-13900KF",
+        "Videokarta": "NVIDIA RTX 4090",
+        "RAM": "32GB DDR5",
+        "SSD": "2TB NVMe"
+      }
+    },
+    {
+      "id": 8,
+      "slug": "msi-infinite-a",
+      "name": "MSI Infinite RS 14th",
+      "description": "Intel Core i7-14700KF, RTX 4070, 16GB DDR5, 1TB SSD",
+      "price": 15800000,
+      "categoryId": 2,
+      "brandId": 2,
+      "stock": 10,
+      "isNew": true,
+      "specs": {
+        "Protsessor": "Intel Core i7-14700KF",
+        "Videokarta": "NVIDIA RTX 4070",
+        "RAM": "16GB DDR5",
+        "SSD": "1TB NVMe"
+      }
+    },
+    {
+      "id": 9,
+      "slug": "corsair-vengeance-i7500",
+      "name": "Corsair Vengeance i7500",
+      "description": "Intel Core i7-14700KF, RTX 4080, 32GB DDR5, 2TB SSD",
+      "price": 32000000,
+      "categoryId": 2,
+      "brandId": 6,
+      "stock": 6,
+      "isFeatured": true,
+      "specs": {
+        "Protsessor": "Intel Core i7-14700KF",
+        "Videokarta": "NVIDIA RTX 4080",
+        "RAM": "32GB DDR5",
+        "SSD": "2TB NVMe"
+      }
+    },
+    {
+      "id": 10,
+      "slug": "hp-omen-45l",
+      "name": "HP Omen 45L",
+      "description": "Intel Core i9-14900KF, RTX 4090, 32GB DDR5, 2TB SSD",
+      "price": 42000000,
+      "discountPrice": 39000000,
+      "categoryId": 2,
+      "brandId": 12,
+      "stock": 3,
+      "specs": {
+        "Protsessor": "Intel Core i9-14900KF",
+        "Videokarta": "NVIDIA RTX 4090",
+        "RAM": "32GB DDR5",
+        "SSD": "2TB NVMe"
+      }
+    },
+    {
+      "id": 11,
+      "slug": "razer-deathadder-v3",
+      "name": "Razer DeathAdder V3 Pro",
+      "description": "30K DPI Focus Pro sensor, 63g, HyperSpeed wireless",
+      "price": 1200000,
+      "categoryId": 3,
+      "brandId": 4,
+      "stock": 25,
+      "isFeatured": true,
+      "specs": {
+        "DPI": "30,000",
+        "Og'irligi": "63g",
+        "Sims": "Ha - HyperSpeed",
+        "Sensor": "Focus Pro 30K"
+      }
+    },
+    {
+      "id": 12,
+      "slug": "logitech-g-pro-x2",
+      "name": "Logitech G PRO X SUPERLIGHT 2",
+      "description": "32K DPI, 60g, HERO 2 sensor, LIGHTSPEED wireless",
+      "price": 1500000,
+      "categoryId": 3,
+      "brandId": 5,
+      "stock": 30,
+      "isNew": true,
+      "isFeatured": true,
+      "specs": {
+        "DPI": "32,000",
+        "Og'irligi": "60g",
+        "Sims": "Ha - LIGHTSPEED",
+        "Sensor": "HERO 2"
+      }
+    },
+    {
+      "id": 13,
+      "slug": "razer-viper-v3",
+      "name": "Razer Viper V3 HyperSpeed",
+      "description": "30K DPI, 82g, ergonomik, wireless",
+      "price": 980000,
+      "categoryId": 3,
+      "brandId": 4,
+      "stock": 18,
+      "specs": {
+        "DPI": "30,000",
+        "Og'irligi": "82g",
+        "Sims": "Ha",
+        "Sensor": "Focus Pro 30K"
+      }
+    },
+    {
+      "id": 14,
+      "slug": "steelseries-prime-mini",
+      "name": "SteelSeries Prime Mini Wireless",
+      "description": "18K DPI, 80g, TrueMove Air, wireless",
+      "price": 850000,
+      "discountPrice": 690000,
+      "categoryId": 3,
+      "brandId": 8,
+      "stock": 22,
+      "specs": {
+        "DPI": "18,000",
+        "Og'irligi": "80g",
+        "Sims": "Ha",
+        "Sensor": "TrueMove Air"
+      }
+    },
+    {
+      "id": 15,
+      "slug": "corsair-sabre-pro",
+      "name": "Corsair Sabre RGB Pro Wireless",
+      "description": "26K DPI, 79g, Marksman sensor, Slipstream",
+      "price": 780000,
+      "categoryId": 3,
+      "brandId": 6,
+      "stock": 15,
+      "specs": {
+        "DPI": "26,000",
+        "Og'irligi": "79g",
+        "Sims": "Ha",
+        "Sensor": "Marksman 26K"
+      }
+    },
+    {
+      "id": 16,
+      "slug": "razer-huntsman-v3-pro",
+      "name": "Razer Huntsman V3 Pro",
+      "description": "Analog Optical switches, per-key RGB, magnetic wrist rest",
+      "price": 2800000,
+      "categoryId": 4,
+      "brandId": 4,
+      "stock": 12,
+      "isFeatured": true,
+      "specs": {
+        "Switch": "Analog Optical",
+        "Chiroq": "Per-key RGB",
+        "Sims": "Yo'q",
+        "Maket": "Full-size"
+      }
+    },
+    {
+      "id": 17,
+      "slug": "corsair-k70-pro",
+      "name": "Corsair K70 Pro Mini Wireless",
+      "description": "Cherry MX Red, 65% compact, per-key RGB, wireless",
+      "price": 2200000,
+      "categoryId": 4,
+      "brandId": 6,
+      "stock": 16,
+      "isNew": true,
+      "specs": {
+        "Switch": "Cherry MX Red",
+        "Chiroq": "Per-key RGB",
+        "Sims": "Ha",
+        "Maket": "65%"
+      }
+    },
+    {
+      "id": 18,
+      "slug": "logitech-g915-tkl",
+      "name": "Logitech G915 TKL",
+      "description": "GL Tactile, Tenkeyless, LIGHTSYNC RGB, LIGHTSPEED",
+      "price": 2100000,
+      "categoryId": 4,
+      "brandId": 5,
+      "stock": 14,
+      "specs": {
+        "Switch": "GL Tactile",
+        "Chiroq": "LIGHTSYNC RGB",
+        "Sims": "Ha",
+        "Maket": "TKL"
+      }
+    },
+    {
+      "id": 19,
+      "slug": "hyperx-alloy-origins",
+      "name": "HyperX Alloy Origins 65",
+      "description": "HyperX Red, 65% compact, per-key RGB, aluminum frame",
+      "price": 950000,
+      "categoryId": 4,
+      "brandId": 7,
+      "stock": 20,
+      "specs": {
+        "Switch": "HyperX Red",
+        "Chiroq": "Per-key RGB",
+        "Sims": "Yo'q",
+        "Maket": "65%"
+      }
+    },
+    {
+      "id": 20,
+      "slug": "steelseries-apex-pro-tkl",
+      "name": "SteelSeries Apex Pro TKL",
+      "description": "OmniPoint adjustable, Smart OLED, per-key RGB",
+      "price": 2500000,
+      "discountPrice": 2100000,
+      "categoryId": 4,
+      "brandId": 8,
+      "stock": 8,
+      "specs": {
+        "Switch": "OmniPoint Adjustable",
+        "Chiroq": "Per-key RGB + OLED",
+        "Sims": "Yo'q",
+        "Maket": "TKL"
+      }
+    },
+    {
+      "id": 21,
+      "slug": "razer-goliathus-chroma",
+      "name": "Razer Goliathus Extended Chroma",
+      "description": "950x420mm, RGB edge lighting, micro-weave cloth",
+      "price": 550000,
+      "categoryId": 5,
+      "brandId": 4,
+      "stock": 30,
+      "isFeatured": true,
+      "specs": {
+        "O'lcham": "950x420mm",
+        "Material": "Micro-weave cloth",
+        "RGB": "Ha - Chroma",
+        "Qalinlik": "3mm"
+      }
+    },
+    {
+      "id": 22,
+      "slug": "logitech-g640",
+      "name": "Logitech G640 Large",
+      "description": "900x400mm, cloth surface, rubber base",
+      "price": 380000,
+      "categoryId": 5,
+      "brandId": 5,
+      "stock": 25,
+      "specs": {
+        "O'lcham": "900x400mm",
+        "Material": "Cloth",
+        "RGB": "Yo'q",
+        "Qalinlik": "3mm"
+      }
+    },
+    {
+      "id": 23,
+      "slug": "steelseries-qck-prism",
+      "name": "SteelSeries QcK Prism",
+      "description": "450x400mm, RGB 12-zone lighting, micro-textured",
+      "price": 420000,
+      "categoryId": 5,
+      "brandId": 8,
+      "stock": 18,
+      "isNew": true,
+      "specs": {
+        "O'lcham": "450x400mm",
+        "Material": "Micro-textured cloth",
+        "RGB": "Ha - 12 zones",
+        "Qalinlik": "4mm"
+      }
+    },
+    {
+      "id": 24,
+      "slug": "corsair-mm300-extended",
+      "name": "Corsair MM300 Extended",
+      "description": "930x430mm, glide-optimized, anti-fray stitched edges",
+      "price": 350000,
+      "categoryId": 5,
+      "brandId": 6,
+      "stock": 22,
+      "specs": {
+        "O'lcham": "930x430mm",
+        "Material": "Glide-optimized",
+        "RGB": "Yo'q",
+        "Qalinlik": "3mm"
+      }
+    },
+    {
+      "id": 25,
+      "slug": "secretlab-titan-evo-2024",
+      "name": "Secretlab Titan Evo 2024",
+      "description": "Neo Hybrid Leatherette, 4-way L-ADAPT Lumbar, cold-cure foam",
+      "price": 6500000,
+      "categoryId": 6,
+      "brandId": 9,
+      "stock": 6,
+      "isFeatured": true,
+      "specs": {
+        "Material": "Neo Hybrid Leatherette",
+        "Bel yostig'i": "4-Way L-ADAPT",
+        "Maks yuk": "130kg",
+        "Balandlik sozlash": "Ha"
+      }
+    },
+    {
+      "id": 26,
+      "slug": "noblechairs-hero",
+      "name": "Noblechairs HERO TX",
+      "description": "PU leather, adjustable lumbar, 4D armrests, max 150kg",
+      "price": 4500000,
+      "categoryId": 6,
+      "brandId": 10,
+      "stock": 10,
+      "isNew": true,
+      "specs": {
+        "Material": "PU Leather",
+        "Bel yostig'i": "Adjustable",
+        "Maks yuk": "150kg",
+        "Balandlik sozlash": "Ha"
+      }
+    },
+    {
+      "id": 27,
+      "slug": "razer-iskur-v2",
+      "name": "Razer Iskur V2",
+      "description": "Ergonomic lumbar support, fully adjustable, high-density foam",
+      "price": 5200000,
+      "categoryId": 6,
+      "brandId": 4,
+      "stock": 8,
+      "specs": {
+        "Material": "PU Leather",
+        "Bel yostig'i": "Ergonomic adjustable",
+        "Maks yuk": "130kg",
+        "Balandlik sozlash": "Ha"
+      }
+    },
+    {
+      "id": 28,
+      "slug": "corsair-t3-rush",
+      "name": "Corsair T3 Rush",
+      "description": "Soft fabric, 4D armrests, adjustable neck and lumbar pillows",
+      "price": 3200000,
+      "discountPrice": 2700000,
+      "categoryId": 6,
+      "brandId": 6,
+      "stock": 14,
+      "specs": {
+        "Material": "Soft Fabric",
+        "Bel yostig'i": "Adjustable pillow",
+        "Maks yuk": "120kg",
+        "Balandlik sozlash": "Ha"
+      }
+    }
+  ],
+  "productImages": [
+    {
+      "id": 1,
+      "productId": 1,
+      "url": "https://images.pexels.com/photos/15393003/pexels-photo-15393003.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "ASUS ROG Strix G16",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "url": "https://images.pexels.com/photos/3951449/pexels-photo-3951449.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "ASUS ROG Strix G16",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "url": "https://images.pexels.com/photos/37694203/pexels-photo-37694203.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "ASUS ROG Strix G16",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "url": "https://images.pexels.com/photos/15393003/pexels-photo-15393003.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "MSI Raider GE78 HX",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 5,
+      "productId": 2,
+      "url": "https://images.pexels.com/photos/3951449/pexels-photo-3951449.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "MSI Raider GE78 HX",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 6,
+      "productId": 2,
+      "url": "https://images.pexels.com/photos/37694203/pexels-photo-37694203.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "MSI Raider GE78 HX",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 7,
+      "productId": 3,
+      "url": "https://images.pexels.com/photos/15393003/pexels-photo-15393003.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Lenovo Legion Pro 7i",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 8,
+      "productId": 3,
+      "url": "https://images.pexels.com/photos/3951449/pexels-photo-3951449.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Lenovo Legion Pro 7i",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 9,
+      "productId": 3,
+      "url": "https://images.pexels.com/photos/37694203/pexels-photo-37694203.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Lenovo Legion Pro 7i",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 10,
+      "productId": 4,
+      "url": "https://images.pexels.com/photos/15393003/pexels-photo-15393003.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "ASUS ROG Zephyrus G14",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 11,
+      "productId": 4,
+      "url": "https://images.pexels.com/photos/3951449/pexels-photo-3951449.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "ASUS ROG Zephyrus G14",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 12,
+      "productId": 4,
+      "url": "https://images.pexels.com/photos/37694203/pexels-photo-37694203.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "ASUS ROG Zephyrus G14",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 13,
+      "productId": 5,
+      "url": "https://images.pexels.com/photos/15393003/pexels-photo-15393003.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Acer Predator Helios 18",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 14,
+      "productId": 5,
+      "url": "https://images.pexels.com/photos/3951449/pexels-photo-3951449.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Acer Predator Helios 18",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 15,
+      "productId": 5,
+      "url": "https://images.pexels.com/photos/37694203/pexels-photo-37694203.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Acer Predator Helios 18",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 16,
+      "productId": 6,
+      "url": "https://images.pexels.com/photos/15393003/pexels-photo-15393003.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HP Omen 16",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 17,
+      "productId": 6,
+      "url": "https://images.pexels.com/photos/3951449/pexels-photo-3951449.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HP Omen 16",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 18,
+      "productId": 6,
+      "url": "https://images.pexels.com/photos/37694203/pexels-photo-37694203.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HP Omen 16",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 19,
+      "productId": 7,
+      "url": "https://images.pexels.com/photos/7858743/pexels-photo-7858743.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "ASUS ROG Strix G35CE",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 20,
+      "productId": 7,
+      "url": "https://images.pexels.com/photos/7858767/pexels-photo-7858767.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "ASUS ROG Strix G35CE",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 21,
+      "productId": 7,
+      "url": "https://images.pexels.com/photos/7859348/pexels-photo-7859348.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "ASUS ROG Strix G35CE",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 22,
+      "productId": 7,
+      "url": "https://images.pexels.com/photos/7915225/pexels-photo-7915225.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "ASUS ROG Strix G35CE",
+      "sortOrder": 3,
+      "isPrimary": false
+    },
+    {
+      "id": 23,
+      "productId": 8,
+      "url": "https://images.pexels.com/photos/7858743/pexels-photo-7858743.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "MSI Infinite RS 14th",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 24,
+      "productId": 8,
+      "url": "https://images.pexels.com/photos/7858767/pexels-photo-7858767.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "MSI Infinite RS 14th",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 25,
+      "productId": 8,
+      "url": "https://images.pexels.com/photos/7859348/pexels-photo-7859348.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "MSI Infinite RS 14th",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 26,
+      "productId": 8,
+      "url": "https://images.pexels.com/photos/7915225/pexels-photo-7915225.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "MSI Infinite RS 14th",
+      "sortOrder": 3,
+      "isPrimary": false
+    },
+    {
+      "id": 27,
+      "productId": 9,
+      "url": "https://images.pexels.com/photos/7858743/pexels-photo-7858743.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair Vengeance i7500",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 28,
+      "productId": 9,
+      "url": "https://images.pexels.com/photos/7858767/pexels-photo-7858767.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair Vengeance i7500",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 29,
+      "productId": 9,
+      "url": "https://images.pexels.com/photos/7859348/pexels-photo-7859348.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair Vengeance i7500",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 30,
+      "productId": 9,
+      "url": "https://images.pexels.com/photos/7915225/pexels-photo-7915225.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair Vengeance i7500",
+      "sortOrder": 3,
+      "isPrimary": false
+    },
+    {
+      "id": 31,
+      "productId": 10,
+      "url": "https://images.pexels.com/photos/7858743/pexels-photo-7858743.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HP Omen 45L",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 32,
+      "productId": 10,
+      "url": "https://images.pexels.com/photos/7858767/pexels-photo-7858767.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HP Omen 45L",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 33,
+      "productId": 10,
+      "url": "https://images.pexels.com/photos/7859348/pexels-photo-7859348.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HP Omen 45L",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 34,
+      "productId": 10,
+      "url": "https://images.pexels.com/photos/7915225/pexels-photo-7915225.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HP Omen 45L",
+      "sortOrder": 3,
+      "isPrimary": false
+    },
+    {
+      "id": 35,
+      "productId": 11,
+      "url": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer DeathAdder V3 Pro",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 36,
+      "productId": 11,
+      "url": "https://images.pexels.com/photos/29259392/pexels-photo-29259392.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer DeathAdder V3 Pro",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 37,
+      "productId": 11,
+      "url": "https://images.pexels.com/photos/28993052/pexels-photo-28993052.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer DeathAdder V3 Pro",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 38,
+      "productId": 12,
+      "url": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Logitech G PRO X SUPERLIGHT 2",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 39,
+      "productId": 12,
+      "url": "https://images.pexels.com/photos/29259392/pexels-photo-29259392.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Logitech G PRO X SUPERLIGHT 2",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 40,
+      "productId": 12,
+      "url": "https://images.pexels.com/photos/28993052/pexels-photo-28993052.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Logitech G PRO X SUPERLIGHT 2",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 41,
+      "productId": 13,
+      "url": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Viper V3 HyperSpeed",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 42,
+      "productId": 13,
+      "url": "https://images.pexels.com/photos/29259392/pexels-photo-29259392.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Viper V3 HyperSpeed",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 43,
+      "productId": 13,
+      "url": "https://images.pexels.com/photos/28993052/pexels-photo-28993052.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Viper V3 HyperSpeed",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 44,
+      "productId": 14,
+      "url": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "SteelSeries Prime Mini Wireless",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 45,
+      "productId": 14,
+      "url": "https://images.pexels.com/photos/29259392/pexels-photo-29259392.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "SteelSeries Prime Mini Wireless",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 46,
+      "productId": 14,
+      "url": "https://images.pexels.com/photos/28993052/pexels-photo-28993052.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "SteelSeries Prime Mini Wireless",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 47,
+      "productId": 15,
+      "url": "https://images.pexels.com/photos/2115256/pexels-photo-2115256.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair Sabre RGB Pro Wireless",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 48,
+      "productId": 15,
+      "url": "https://images.pexels.com/photos/29259392/pexels-photo-29259392.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair Sabre RGB Pro Wireless",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 49,
+      "productId": 15,
+      "url": "https://images.pexels.com/photos/28993052/pexels-photo-28993052.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair Sabre RGB Pro Wireless",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 50,
+      "productId": 16,
+      "url": "https://images.pexels.com/photos/5380584/pexels-photo-5380584.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Huntsman V3 Pro",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 51,
+      "productId": 16,
+      "url": "https://images.pexels.com/photos/7915219/pexels-photo-7915219.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Huntsman V3 Pro",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 52,
+      "productId": 16,
+      "url": "https://images.pexels.com/photos/671629/pexels-photo-671629.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Huntsman V3 Pro",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 53,
+      "productId": 16,
+      "url": "https://images.pexels.com/photos/7915508/pexels-photo-7915508.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Huntsman V3 Pro",
+      "sortOrder": 3,
+      "isPrimary": false
+    },
+    {
+      "id": 54,
+      "productId": 17,
+      "url": "https://images.pexels.com/photos/5380584/pexels-photo-5380584.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair K70 Pro Mini Wireless",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 55,
+      "productId": 17,
+      "url": "https://images.pexels.com/photos/7915219/pexels-photo-7915219.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair K70 Pro Mini Wireless",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 56,
+      "productId": 17,
+      "url": "https://images.pexels.com/photos/671629/pexels-photo-671629.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair K70 Pro Mini Wireless",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 57,
+      "productId": 17,
+      "url": "https://images.pexels.com/photos/7915508/pexels-photo-7915508.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair K70 Pro Mini Wireless",
+      "sortOrder": 3,
+      "isPrimary": false
+    },
+    {
+      "id": 58,
+      "productId": 18,
+      "url": "https://images.pexels.com/photos/5380584/pexels-photo-5380584.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Logitech G915 TKL",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 59,
+      "productId": 18,
+      "url": "https://images.pexels.com/photos/7915219/pexels-photo-7915219.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Logitech G915 TKL",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 60,
+      "productId": 18,
+      "url": "https://images.pexels.com/photos/671629/pexels-photo-671629.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Logitech G915 TKL",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 61,
+      "productId": 18,
+      "url": "https://images.pexels.com/photos/7915508/pexels-photo-7915508.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Logitech G915 TKL",
+      "sortOrder": 3,
+      "isPrimary": false
+    },
+    {
+      "id": 62,
+      "productId": 19,
+      "url": "https://images.pexels.com/photos/5380584/pexels-photo-5380584.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HyperX Alloy Origins 65",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 63,
+      "productId": 19,
+      "url": "https://images.pexels.com/photos/7915219/pexels-photo-7915219.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HyperX Alloy Origins 65",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 64,
+      "productId": 19,
+      "url": "https://images.pexels.com/photos/671629/pexels-photo-671629.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HyperX Alloy Origins 65",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 65,
+      "productId": 19,
+      "url": "https://images.pexels.com/photos/7915508/pexels-photo-7915508.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "HyperX Alloy Origins 65",
+      "sortOrder": 3,
+      "isPrimary": false
+    },
+    {
+      "id": 66,
+      "productId": 20,
+      "url": "https://images.pexels.com/photos/5380584/pexels-photo-5380584.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "SteelSeries Apex Pro TKL",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 67,
+      "productId": 20,
+      "url": "https://images.pexels.com/photos/7915219/pexels-photo-7915219.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "SteelSeries Apex Pro TKL",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 68,
+      "productId": 20,
+      "url": "https://images.pexels.com/photos/671629/pexels-photo-671629.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "SteelSeries Apex Pro TKL",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 69,
+      "productId": 20,
+      "url": "https://images.pexels.com/photos/7915508/pexels-photo-7915508.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "SteelSeries Apex Pro TKL",
+      "sortOrder": 3,
+      "isPrimary": false
+    },
+    {
+      "id": 70,
+      "productId": 21,
+      "url": "https://images.pexels.com/photos/27679707/pexels-photo-27679707.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Goliathus Extended Chroma",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 71,
+      "productId": 21,
+      "url": "https://images.pexels.com/photos/18155963/pexels-photo-18155963.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Goliathus Extended Chroma",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 72,
+      "productId": 21,
+      "url": "https://images.pexels.com/photos/27559560/pexels-photo-27559560.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Goliathus Extended Chroma",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 73,
+      "productId": 22,
+      "url": "https://images.pexels.com/photos/27679707/pexels-photo-27679707.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Logitech G640 Large",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 74,
+      "productId": 22,
+      "url": "https://images.pexels.com/photos/18155963/pexels-photo-18155963.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Logitech G640 Large",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 75,
+      "productId": 22,
+      "url": "https://images.pexels.com/photos/27559560/pexels-photo-27559560.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Logitech G640 Large",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 76,
+      "productId": 23,
+      "url": "https://images.pexels.com/photos/27679707/pexels-photo-27679707.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "SteelSeries QcK Prism",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 77,
+      "productId": 23,
+      "url": "https://images.pexels.com/photos/18155963/pexels-photo-18155963.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "SteelSeries QcK Prism",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 78,
+      "productId": 23,
+      "url": "https://images.pexels.com/photos/27559560/pexels-photo-27559560.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "SteelSeries QcK Prism",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 79,
+      "productId": 24,
+      "url": "https://images.pexels.com/photos/27679707/pexels-photo-27679707.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair MM300 Extended",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 80,
+      "productId": 24,
+      "url": "https://images.pexels.com/photos/18155963/pexels-photo-18155963.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair MM300 Extended",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 81,
+      "productId": 24,
+      "url": "https://images.pexels.com/photos/27559560/pexels-photo-27559560.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair MM300 Extended",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 82,
+      "productId": 25,
+      "url": "https://images.pexels.com/photos/7915533/pexels-photo-7915533.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Secretlab Titan Evo 2024",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 83,
+      "productId": 25,
+      "url": "https://images.pexels.com/photos/16040234/pexels-photo-16040234.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Secretlab Titan Evo 2024",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 84,
+      "productId": 25,
+      "url": "https://images.pexels.com/photos/28955779/pexels-photo-28955779.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Secretlab Titan Evo 2024",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 85,
+      "productId": 26,
+      "url": "https://images.pexels.com/photos/7915533/pexels-photo-7915533.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Noblechairs HERO TX",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 86,
+      "productId": 26,
+      "url": "https://images.pexels.com/photos/16040234/pexels-photo-16040234.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Noblechairs HERO TX",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 87,
+      "productId": 26,
+      "url": "https://images.pexels.com/photos/28955779/pexels-photo-28955779.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Noblechairs HERO TX",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 88,
+      "productId": 27,
+      "url": "https://images.pexels.com/photos/7915533/pexels-photo-7915533.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Iskur V2",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 89,
+      "productId": 27,
+      "url": "https://images.pexels.com/photos/16040234/pexels-photo-16040234.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Iskur V2",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 90,
+      "productId": 27,
+      "url": "https://images.pexels.com/photos/28955779/pexels-photo-28955779.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Razer Iskur V2",
+      "sortOrder": 2,
+      "isPrimary": false
+    },
+    {
+      "id": 91,
+      "productId": 28,
+      "url": "https://images.pexels.com/photos/7915533/pexels-photo-7915533.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair T3 Rush",
+      "sortOrder": 0,
+      "isPrimary": true
+    },
+    {
+      "id": 92,
+      "productId": 28,
+      "url": "https://images.pexels.com/photos/16040234/pexels-photo-16040234.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair T3 Rush",
+      "sortOrder": 1,
+      "isPrimary": false
+    },
+    {
+      "id": 93,
+      "productId": 28,
+      "url": "https://images.pexels.com/photos/28955779/pexels-photo-28955779.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "alt": "Corsair T3 Rush",
+      "sortOrder": 2,
+      "isPrimary": false
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "title": "GAME HUB — Gaming texnikasi markazi",
+      "subtitle": "O'zbekistondagi eng katta gaming texnikasi do'koni. Premium noutbuklar, kompyuterlar va aksesuarlar.",
+      "image": "https://images.pexels.com/photos/7858742/pexels-photo-7858742.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "link": "/catalog",
+      "sortOrder": 1,
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "title": "RTX 4090 bilan tanishing",
+      "subtitle": "Eng kuchli videokartalar bilan gaming kompyuterlar endi sotuvda.",
+      "image": "https://images.pexels.com/photos/7915225/pexels-photo-7915225.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+      "link": "/catalog/gaming-pcs",
+      "sortOrder": 2,
+      "isActive": true
+    }
+  ],
+  "storeSettings": [
+    {
+      "id": 1,
+      "key": "store_name",
+      "value": "GAME HUB"
+    },
+    {
+      "id": 2,
+      "key": "store_phone",
+      "value": ""
+    },
+    {
+      "id": 3,
+      "key": "store_email",
+      "value": ""
+    },
+    {
+      "id": 4,
+      "key": "store_address",
+      "value": ""
+    },
+    {
+      "id": 5,
+      "key": "delivery_info",
+      "value": "Toshkent shahri bo'ylab 1-2 ish kuni ichida yetkazib beriladi. Viloyatlarga 3-5 ish kuni."
+    },
+    {
+      "id": 6,
+      "key": "click_merchant_id",
+      "value": ""
+    },
+    {
+      "id": 7,
+      "key": "payme_id",
+      "value": ""
+    }
+  ]
+}
